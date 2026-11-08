@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://drbankata.github.io/paras-gangwal/sitemap.xml
+Disallow: /
